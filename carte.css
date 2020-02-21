@@ -1,0 +1,6 @@
+.carte {
+  display: flex;
+  flex-flow: wrap column;
+  flex-basis: 200px;
+  background-color: red;
+}
